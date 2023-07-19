@@ -1,15 +1,1 @@
-{
-	"scotch1": {
-		"title": "Scotch 1",
-		"image": "scotch1.png"
-	},
-	"scotch2": {
-		"title": "Scotch 2",
-		"image": "scotch2.png"
-	},
-	"32609485-a31b-4b94-8bb1-34c6df62f517": {
-		"title": "1792 Small Batch",
-		"image": "https://www.saq.com/media/catalog/product/1/1/11857026-1_1680622983.png?quality=80&fit=bounds&height=&width=.png",
-		"id": "32609485-a31b-4b94-8bb1-34c6df62f517"
-	}
-}
+{"22c7a9fe-c129-4702-88cd-d1b49a3ab2e4":{"title":"1792 Small Batch","image":"https://www.saq.com/media/catalog/product/1/1/11857026-1_1680622983.png?quality=80&fit=bounds&height=&width=.png","id":"22c7a9fe-c129-4702-88cd-d1b49a3ab2e4"}}
